@@ -5,7 +5,7 @@ false == undefined: جواب false است، زیرا این دو مقدار مت
 
 undefined == null: جواب true است، زیرا هر دو مقدار به عنوان "مقدار نامعلوم" در نظر گرفته می‌شوند.
 
-![Alt-](<download%20(2).jfif>)
+![Alt-](/bb.jfif)
 
 == nan undefined: جواب false است، زیرا NaN (Not a Number) و undefined دو مقدار متفاوت هستند.
 
